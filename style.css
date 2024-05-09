@@ -70,7 +70,7 @@ a:hover {
 /* HAMBURGER MENU */
 
 #hamburger-nav {
-  background-image: url('assets/project1.jpg');
+ 
   display: none;
 }
 
@@ -154,7 +154,7 @@ a:hover {
 /* SECTIONS */
 
 section {
-  background-image: url('assets/project1.jpg');
+  
   padding-top: 4vh;
   height: 96vh;
   margin: 0 10rem;
@@ -332,7 +332,7 @@ section {
 }
 
 .experience-sub-title {
-  background-image: url('assets/project1.jpg');
+ 
   color: rgba(8, 0, 0, 0.888);
   font-weight: 600;
   font-size: 1.75rem;
@@ -365,7 +365,7 @@ article {
 }
 
 article .icon {
-  background-image: url('assets/project1.jpg');
+  
   cursor: default;
 }
 
